@@ -1,0 +1,16 @@
+.conteudo{
+    margin-top: 15px;
+    border: thin solid gray;
+    padding: 25px;
+}
+.form{
+    height: 90px;
+    width: 800px;
+}
+.button{
+    height: 90px;
+    width: 200px;
+    color:black;
+    font-size: 30px;
+    background-color: green;
+}
